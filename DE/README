@@ -1,0 +1,7 @@
+Validating german bank account numbers. At the moment there
+are methods 00-27 implemented. Others will follow.
+The methods are roughly tested, but they need further
+testing. don't rely on this module at the moment!
+
+Comments, feedback, questions: tinita@cpan.org
+2001/08/23
